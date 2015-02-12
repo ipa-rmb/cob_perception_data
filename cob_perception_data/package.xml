@@ -4,8 +4,8 @@
 	<description>
 		data for perception task e.g. training data 
 	</description>
-	<author>Maintained by Robert Heinze</author>
-	<maintainer email="jsf@ipa.fhg.de">Jan Fischer</maintainer>
+	<author>Maintained by Richard Bormann</author>
+	<maintainer email="richard.bormann@ipa.fraunhofer.de">Richard Bormann</maintainer>
 	<license>LGPL</license>
 	<url>http://ros.org/wiki/cob_perception_data</url>
 	
